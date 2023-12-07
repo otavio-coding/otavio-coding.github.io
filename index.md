@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Python Automation 
 
-[Project 1 Title](/sample_page)
+[Whatsapp Web Automation for Chrome](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
