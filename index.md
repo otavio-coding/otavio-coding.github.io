@@ -4,7 +4,8 @@
 
 ### Python Automation 
 
-[AutoZap - Whatsapp Web Automation for Chrome](/whatsapp_automation)
+[AutoZap - Whatsapp Web Automation for Chrome (en)](/whatsapp_automation)
+[AutoZap - Automatização do Whatsapp Web para Chrome (pt-BR)](/whatsapp_automationptBR)
 <img src="images/thumbnail.jpg?raw=true"/>
 
 ---
