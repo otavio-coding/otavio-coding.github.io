@@ -37,7 +37,7 @@ Frame 3: Progress and results
 
 ## Showcase
 
-<iframe width="818" height="448" src="https://www.youtube.com/embed/3Zou1ojfTqI" title="AutoZap: Automate Your WhatsApp Messaging with Ease" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="409" height="224" src="https://www.youtube.com/embed/3Zou1ojfTqI" title="AutoZap: Automate Your WhatsApp Messaging with Ease" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Future Improvements
