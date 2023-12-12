@@ -16,7 +16,7 @@ This is a project designed to automate the process of sending WhatsApp messages 
 * **User-Friendly GUI**: The graphical user interface, built using Tkinter, offers a straightforward experience, guiding users through the necessary steps.
 
 ## System Design
-For detailed insights into the system design, refer to the System Design Documentation.
+For detailed insights into the system design, refer to the [System Design Documentation](http://www.github.com/otavio-coding/SystemDesignDocumentation/ "http://www.github.com/otavio-coding/SystemDesignDocumentation/").
 
 ## How It Works
 1. **Configuration**: Users can customize settings through a configuration file, defining parameters such as the CSV file with contact details and the location of the message to be sent.
