@@ -16,7 +16,7 @@ Este é um projeto projetado para automatizar o processo de envio de mensagens p
 * **Interface Gráfica Amigável ao Usuário**: A interface gráfica do usuário, construída usando Tkinter, oferece uma experiência simples, guiando os usuários pelos passos necessários.
 
 ## Design do Sistema
-Para informações detalhadas sobre o design do sistema, consulte a Documentação de Design do Sistema.
+Para informações detalhadas sobre o design do sistema, consulte a [Documentação de Design do Sistema](https://drive.google.com/file/d/1lTF7eJ6Bhiz5L5TS6W0eebdYFm27YX3b/view?usp=sharing "https://drive.google.com/file/d/1lTF7eJ6Bhiz5L5TS6W0eebdYFm27YX3b/view?usp=sharing") 
 
 ## Como Funciona
 1. **Configuração**: Os usuários podem personalizar as configurações por meio de um arquivo de configuração, definindo parâmetros como o arquivo CSV com detalhes de contato e a localização da mensagem a ser enviada.
