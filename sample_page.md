@@ -21,7 +21,6 @@ For detailed insights into the system design, refer to the System Design Documen
 3. **Message Sending**: The tool utilizes Selenium WebDriver to send messages to specified phone numbers, handling various scenarios such as invalid numbers and button availability.
 4. **User Interface:** The graphical user interface provides a seamless experience, with frames guiding users through the process and displaying progress and results.
 
-   
 ## Project Screenshots
 Frame 1: Start sending messages
  
@@ -37,9 +36,9 @@ Frame 3: Progress and results
 
 ## Showcase
 
-<iframe width="409" height="224" src="https://www.youtube.com/embed/3Zou1ojfTqI" title="AutoZap: Automate Your WhatsApp Messaging with Ease" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+<iframe width="613,5" height="336" src="https://www.youtube.com/embed/3Zou1ojfTqI" title="AutoZap: Automate Your WhatsApp Messaging with Ease" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br/><br/>
+<br/><br/>
 ## Future Improvements
 This is an evolving project, and future improvements may include:
 * The app needs a name.
