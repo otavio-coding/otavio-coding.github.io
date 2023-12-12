@@ -3,6 +3,9 @@
 ## Overview 
 This is a project designed to automate the process of sending WhatsApp messages using the WhatsApp web interface. This tool simplifies the task of sending bulk messages by leveraging web automation technologies and providing an easy-to-use graphical interface.
 
+<iframe width="613,5" height="336" src="https://www.youtube.com/embed/3Zou1ojfTqI" title="AutoZap: Automate Your WhatsApp Messaging with Ease" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br/><br/>
+
 ## Key Features
 * **Effortless Message Sending**: It allows users to send messages to multiple contacts without manual intervention, streamlining the communication process.
 
@@ -33,12 +36,6 @@ Frame 2: Scan new QR code or continue
 Frame 3: Progress and results
 
 <img src="images/Frame3.jpg?raw=true"/>
-
-## Showcase
-
-<iframe width="613,5" height="336" src="https://www.youtube.com/embed/3Zou1ojfTqI" title="AutoZap: Automate Your WhatsApp Messaging with Ease" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br/><br/>
-<br/><br/>
 
 ## Future Improvements
 This is an evolving project, and future improvements may include:
