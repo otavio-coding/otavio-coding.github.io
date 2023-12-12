@@ -35,13 +35,9 @@ Frame 3: Progress and results
 
 <img src="images/Frame3.jpg?raw=true"/>
 
- 
- 
+## Showcase
 
- 
- 
- 
- 
+[![AutoZap Overview Video](images/showcase.jpg)]([https://www.youtube.com/watch?v=3Zou1ojfTqI&ab_channel=Ot%C3%A1vioAranega])
 
 
 ## Future Improvements
