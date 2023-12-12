@@ -37,7 +37,7 @@ Frame 3: Progress and results
 
 ## Showcase
 
-[![AutoZap Overview Video](images/showcase.jpg)]([https://www.youtube.com/watch?v=3Zou1ojfTqI&ab_channel=Ot%C3%A1vioAranega])
+<iframe width="818" height="448" src="https://www.youtube.com/embed/3Zou1ojfTqI" title="AutoZap: Automate Your WhatsApp Messaging with Ease" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Future Improvements
