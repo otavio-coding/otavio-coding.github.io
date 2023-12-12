@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   👋 Hi, I'm Otávio, a programmer on a mission to turn my passion for coding into a career! My journey involves crafting automation projects. Always hungry for knowledge.
   <br><br>
   <br><br>
-  <a href="www.linkedin.com/in/otavio-aranega-15957b249">View My LinkedIn Profile</a> 
+  <a> href="www.linkedin.com/in/otavio-aranega-15957b249">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
