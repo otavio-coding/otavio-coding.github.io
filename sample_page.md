@@ -23,9 +23,9 @@ For detailed insights into the system design, refer to the System Design Documen
 
    
 ## Project Screenshots
- *Frame 1: Start sending messages*
- *Frame 2: Choose between scanning a new QR code or continuing*
- *Frame 3: Progress and results*
+ *Frame 1: Start sending messages* <img src="images/frame1.jpg?raw=true"/>
+ *Frame 2: Choose between scanning a new QR code or continuing* <img src="images/frame2.jpg?raw=true"/>
+ *Frame 3: Progress and results* <img src="images/frame3.jpg?raw=true"/>
 
 
 ## Future Improvements
